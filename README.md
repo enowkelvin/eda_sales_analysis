@@ -1,17 +1,20 @@
-# Eda_sales_analysis.
+# Exploratory Data Analysis of Sales Activity
 
-## Exploratory Data Analysis of Sales Performance
+## Objective
+Analyze sales transaction data to identify sales trends, product performance,
+and patterns that support data-driven decision-making.
 
-### Objective
-Analyze sales data to identify revenue trends and top-performing products.
-
-### Tools
+## Tools
 - Python
 - Pandas
 - Matplotlib
 - Seaborn
 
-### Key Insights
-- Identified monthly revenue trends
-- Highlighted top products by revenue
-- Provided business recommendations
+## Key Insights
+- Identified sales activity trends over time
+- Highlighted top products by sales frequency
+- Observed demand fluctuations useful for planning
+
+## Project Structure
+- `notebook/eda_sales_analysis.ipynb` – Python analysis notebook
+- `data/sales_data.csv` – Dataset
