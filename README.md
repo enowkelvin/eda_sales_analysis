@@ -18,3 +18,6 @@ and patterns that support data-driven decision-making.
 ## Project Structure
 - `notebook/eda_sales_analysis.ipynb` – Python analysis notebook
 - `data/sales_data.csv` – Dataset
+
+## How to View
+Open the notebook file to view the full analysis and visualizations.
